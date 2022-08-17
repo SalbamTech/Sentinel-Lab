@@ -22,11 +22,23 @@ The script is used in this demo where I setup Azure Sentinel (SIEM) and connecte
 
 <p align="center">
 Launch of Azure: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Screenshot (174)](https://user-images.githubusercontent.com/20980822/185135848-e7e8c70a-b4b2-4871-b8fe-46e2f5edcf41.png)
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up windows 10:  <br/>
+![Screenshot (142)](https://user-images.githubusercontent.com/20980822/185228225-e2e899af-222e-4abb-a699-8aa437c81ed2.png)
+![Screenshot (145)](https://user-images.githubusercontent.com/20980822/185228726-71d7d32a-1f3b-480b-927f-e49abc5109dc.png)
+![Screenshot (146)](https://user-images.githubusercontent.com/20980822/185228751-b9f27772-8d60-4b52-8a2e-e9ff43f98864.png)
+<br />
+<br />
+Setting Up our firewall to be exposed to the public internet: <br/>
+setting this up so our address can be exposed and attackers can attack the windows 10 i setup <br/>
+![Screenshot (149)](https://user-images.githubusercontent.com/20980822/185230192-7cc1a90a-8293-4676-8e14-388a827fa158.png)
+![Screenshot (151)](https://user-images.githubusercontent.com/20980822/185230491-91b66c86-2deb-4fb3-bd94-dcc050f18ccb.png)
+![Screenshot (153)](https://user-images.githubusercontent.com/20980822/185230569-458e9ccd-4359-4108-b92c-06f4b7657fc1.png)
+![Screenshot (154)](https://user-images.githubusercontent.com/20980822/185230668-6620c8a6-e18b-40fa-a0e0-35720fb70c07.png)
+
 <br />
 <br />
 Enter the number of passes: <br/>
