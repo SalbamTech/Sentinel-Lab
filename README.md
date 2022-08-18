@@ -72,12 +72,19 @@ Launching the windows 10 using RDP:  <br/>
 ![Screenshot (181)](https://user-images.githubusercontent.com/20980822/185241136-51ac7537-8c09-4829-82b6-1c58575d4ad2.png)
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Turning off windows firewall:  <br/>
+![Screenshot (187)](https://user-images.githubusercontent.com/20980822/185505140-1c0ab197-475a-4ef6-99d6-3ca01b0a43af.png)
+![Screenshot (188)](https://user-images.githubusercontent.com/20980822/185505163-3ba4fe8e-8c08-4c1c-850d-67c75619f8a3.png)
+![Screenshot (190)](https://user-images.githubusercontent.com/20980822/185505186-142636da-7347-465c-8d05-6fab12291968.png)
+<br />
+ <br />
+Custom logs being output with geodata:  <br/>
+![Screenshot (193)](https://user-images.githubusercontent.com/20980822/185505535-d499d4c2-4da9-4ff9-b57f-32498016131e.png)
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+World map of incoming attacks on the virtual machine (built custom logs including geodata):  <br/>
+
+![Screenshot (204)](https://user-images.githubusercontent.com/20980822/185505873-830122c2-e68e-4050-a152-cf2483960fe6.png)
 </p>
 
 <!--
